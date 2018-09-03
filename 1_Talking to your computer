@@ -1,0 +1,22 @@
+"""
+Name:Comet76
+Date: 2018/09/04
+File:Grokans.py
+Desc: Lesson 1 asnwers for grok-introduction to python 
+"""
+#1)
+print("Hello World!")
+#2)
+name=input("What is your name? ")
+print('Hello,', name)
+#3) 
+name=input("What is your name? ")
+print('So you call yourself'+ " " + "'" + name + "'" + " " +"huh?")
+#4)
+name=input("Friend: ")
+name2=input("Friend: ")
+name3=input("Friend: ")
+print("Hello, young " + name) 
+print("Hello, wise " + name2)
+print("Hello, brave " + name3)
+#Completed lesson 1 
