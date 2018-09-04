@@ -4,15 +4,15 @@ Date: 2018/09/04
 File:Grokans.py
 Desc: Lesson 1 asnwers for grok-introduction to python 
 """
-#1)
+#1. prints a string "Hello World"
 print("Hello World!")
-#2)
+#2. Asks for input from user
 name=input("What is your name? ")
 print('Hello,', name)
-#3) 
+#3. Combining strings
 name=input("What is your name? ")
 print('So you call yourself'+ " " + "'" + name + "'" + " " +"huh?")
-#4)
+#4. Using multiple names 
 name=input("Friend: ")
 name2=input("Friend: ")
 name3=input("Friend: ")
