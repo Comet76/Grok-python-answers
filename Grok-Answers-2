@@ -1,0 +1,22 @@
+"""
+Name: Comet76
+Date: 2018/09/04
+File: Grok-ans2.py
+Desc: Grok answers for unit 2
+"""
+#1. Calcs the length of a text
+text=input("Enter text: ")
+print(len(text))
+#2. Adds 1 to integer provided by the user 
+number = int(input("Please enter a number: "))
+print(number + 1)
+#3. Multiplies a string by the number provided by the user
+s = input('Enter a number: ')
+number = int(s)
+print("^"+"_"*number+"^")
+#4. Multiplies a strig provided by the user by a number provided by the user
+sp = input("What do you want me to say? ")
+s = input('How many times do you want me to say it? ')
+number = int(s)
+print(sp*number)
+#ALL EXCERCISES FOR LESSON 2 DONE
