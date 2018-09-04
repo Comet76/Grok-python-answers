@@ -4,22 +4,26 @@ Date: 2018/09/04
 File:Grokans.py
 Desc: Lesson 1 asnwers for grok-introduction to python 
 """
+
 #1. Open sesame
 Password = input("What is the password Ali? ")
 if Password == "Open sesame!":
   print("The cave door opens!")
+  
 #2. Checking passwrods using ==
 p = input("Enter password: ")
 if p == "chEEzburg3rz":
   print("Access granted")
 else: 
   print("Access denied")
+
 #3. Comparing values 
 x = int(input("Number: "))
 if x >= 0:
   print("In the black :)")
 else:
   print("In the red :(")
+
 #4. Using if and elif commands
 x = input("Is it currently raining? ")
 if x == "Yes": 
@@ -33,5 +37,5 @@ elif x == "No":
     print("You should ride your bike.")
   if z < 2:
     print("You should walk.")
-
+#End of Lesson 3 
   
