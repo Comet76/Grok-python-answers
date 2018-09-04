@@ -6,3 +6,4 @@ Tips:-
 3) DM me on discord @Alucard#3171 if you want to give me tips, suggestions or have any questions
 4) This is a good server to join: https://discord.gg/Z5qF532 has a lot of resources to help you code and also a really friendly(mostly) community that you can ask questions to or just sit there and chat like nerds. 
 5) Python is fun. Use your knowledge and be creative.
+6) I'll try to keep this updated lmfao dont roast me too hard if I dont :(
