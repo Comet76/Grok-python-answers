@@ -1,0 +1,27 @@
+"""
+Name:Comet76
+Date: 2018/09/04
+File:Grokans.py
+Desc: Lesson 1 asnwers for grok-introduction to python 
+"""
+
+#1 Passed: Aardvark!
+line = input("Enter line: ")
+if "aardvark" in line :
+  print("Aardvark!")
+else:
+  print("No aardvarks here :(")
+
+#2  Don't SHOUT!
+lol = input("Loud: ") 
+newmsg = lol.lower()
+print("Quiet:"+" "+newmsg)
+
+#3 Broken keyboard
+x = input("What did she say? ")
+msg = x.replace("###","o")
+msg1 = msg.replace("##","e")
+msg2 = msg1.replace("%%","a")
+print("She meant to say: "+msg2)
+
+#test Short/Long Names
